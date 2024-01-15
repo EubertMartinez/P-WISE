@@ -1,0 +1,51 @@
+* dashboard
+	* give info for new user where to start the cycle (promtp where to start)
+Expense
+	category before priority level
+	for category if already existing can notify asap
+	percentage and limiter to see (red for high percentage or nearing limit)
+	try to put percentage or range for category (high: 50% or anything or 5000 for food limit for that budget)
+	the system will stop if expense is over for category (pldt: 2000 if budget is only 2000 the system will stop or suggest to adjust the other category)
+	the system will be the one to support you and try to stop you for overspending
+Budget
+
+Error handler for gmail or inputs
+
+overspending notif change to adgust spending not budget
+
+* error handling for when user logs out it cannot go back when clicking back in browser or will ask to log in again
+
+1st month for free
+2nd month base sa last nonth
+3rs month base sa ave ng 2 mons
+4th base sa 3 months
+
+last 3 months average for analysis
+
+Hi Mid Low percentage the new percentage sa expense name
+
+Reports lahat ng analysis results
+
+Underspending notification if budget is not used all
+
+New category: Savings
+
+All users - user notif for over spend can use savings
+Admin only - if user about to overspend system will suggest this:
+	use savings money
+	adjust budget to other category
+	continue overspending
+
+for household detect who usually overspend put in report
+
+Household
+	Admin only one can start cycle and the 
+		if user about to overspend system will suggest this:
+			use savings money
+			adjust budget to other category
+			continue overspending
+	Member can only add budget nd add expense
+
+
+
+

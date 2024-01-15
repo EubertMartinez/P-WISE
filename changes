@@ -1,0 +1,60 @@
+ - HEADER
+    * Get current cycle ID
+ 
+ - DASHBOARD
+    * start cycle by date range
+    * check if cycle started
+    * Fix recent savings from previous cycle
+    * Fix total savings
+    * Fix current wallet
+    * Fix remaining wallet
+    * Fix days remaining
+    * Fix start and end date of cycle
+    * Fix recent expenses
+
+- EXPENSES
+    * Fix start cycle by date range
+    * add cycle id when adding expenses
+    * Fix expenses percentage
+    * Fix expenses history
+    - Add expenses categories
+        * Create (All)
+        * Read
+        - Update (Conditional)
+        - Delete (Contidional)
+    - Add expenses names
+        - Create (All)
+        - Read
+        - Update (Conditional)
+        - Delete (Contidional)
+    - Fix sending expenses
+        - Validate if overspending based on the budget limit
+
+- BUDGET
+    * Fix start cycle by date range
+    * add cycle id when adding budget
+    * Fix budget current cycle
+    * Fix members total added budget
+    * Fix budget logs. current cycle
+    * Fix house hold contribution cycle label
+    * Fix covered date label
+    * Fix budget history label
+    * Fix budget coverage date label when cycle not started
+    - Add budget limit functionality by categories (Admin only)
+        - Create 
+        - Read   (All)
+        - Update
+            - Validate if budget limit is greater than expenses 
+
+- HOUSEHOLD
+    * Add filter to view previous cycle 
+    * Fix members total added budget
+    * Fix budget logs
+    * Fix expenses logs
+    * Fix graph
+
+- SAVINGS PAGE
+
+    
+
+
